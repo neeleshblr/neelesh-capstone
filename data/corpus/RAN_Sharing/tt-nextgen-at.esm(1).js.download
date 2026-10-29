@@ -1,0 +1,2 @@
+window.__TT_AT_ENV__ = "prod";
+import{p as a41r,b as a41z}from'./p-0e081c06.js';export{s as setNonce}from'./p-0e081c06.js';const n=()=>{const r=import.meta['url'],z={};return r!==''&&(z['resourcesUrl']=new URL('.',r)['href']),a41r(z);};n()['then'](r=>a41z([['p-56d98d48',[[0x1,'tt-nextgen-at',{'siteName':[0x1,'site-name'],'contentKey':[0x1,'content-key'],'contentId':[0x1,'content-id'],'userId':[0x1,'user-id'],'fingerprintId':[0x20],'arrivalSource':[0x20],'envValue':[0x20]}]]]],r));

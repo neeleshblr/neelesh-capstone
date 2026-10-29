@@ -1,0 +1,10 @@
+(function (w) {
+    
+        
+        
+    if (typeof w.feathr === 'function') {
+        w.feathr('match', '6a6d0bf4863a2800024caec1');
+    }
+        
+    
+}(window));

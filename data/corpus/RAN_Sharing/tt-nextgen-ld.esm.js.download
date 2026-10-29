@@ -1,0 +1,1 @@
+import{p as a30D,b as a30G}from'./p-2ed681a8.js';export{s as setNonce}from'./p-2ed681a8.js';const a=()=>{const D=import.meta['url'],G={};return D!==''&&(G['resourcesUrl']=new URL('.',D)['href']),a30D(G);};a()['then'](D=>a30G([['p-a5a65463',[[0x1,'nextgen-links-decorator',{'selector':[0x1],'siteId':[0x2,'site-id'],'siteName':[0x1,'site-name'],'partnerDomains':[0x10]}]]]],D));
